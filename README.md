@@ -1,9 +1,12 @@
 ## 🚀 Quick Start
 
-Want to explore or contribute? Here’s how to get started:
+Want to explore or contribute? Here is how to get started:
 
 1. Fork this repository
-2. Clone your fork:
+2. Click on Create Fork  button
+3. Click the arrow next to &lt;Code&gt;
+4. Copy the url under HTTPS
+5. Open your terminal
    ```bash
    git clone https://github.com/your-username/docs.git
 
