@@ -1,3 +1,13 @@
+## 🚀 Quick Start
+
+Want to explore or contribute? Here’s how to get started:
+
+1. Fork this repository
+2. Clone your fork:
+   ```bash
+   git clone https://github.com/your-username/docs.git
+
+
 # .NET Docs
 
 [![GitHub contributors](https://img.shields.io/github/contributors/dotnet/docs.svg)](https://GitHub.com/dotnet/docs/graphs/contributors/)
